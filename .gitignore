@@ -151,3 +151,4 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 Data_project3/title_akas.csv.gz
+Data_project3_P1/title_akas.csv.gz
